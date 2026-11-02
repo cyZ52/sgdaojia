@@ -28,7 +28,7 @@ export default function My() {
             )}
           </label>
           <div>
-            <h2>{user?.name || "欢迎来到沐禾"}</h2>
+            <h2>{user?.name || "欢迎来到测试"}</h2>
             <p>
               {user
                 ? user.phone.slice(0, 3) + "****" + user.phone.slice(-4)
