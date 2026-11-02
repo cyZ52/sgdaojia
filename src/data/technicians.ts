@@ -1,0 +1,38 @@
+export const people = [
+  {
+    name: "林语",
+    tag: "舒缓放松 · 经络调理",
+    score: "4.9",
+    orders: 826,
+    price: 298,
+    color: "#e6b9a3",
+    initial: "语",
+  },
+  {
+    name: "苏晴",
+    tag: "肩颈护理 · 精油舒缓",
+    score: "4.9",
+    orders: 632,
+    price: 328,
+    color: "#bfd0c1",
+    initial: "晴",
+  },
+  {
+    name: "陈安",
+    tag: "运动恢复 · 深层放松",
+    score: "4.8",
+    orders: 512,
+    price: 268,
+    color: "#b9c9dd",
+    initial: "安",
+  },
+  {
+    name: "许悦",
+    tag: "中式推拿 · 足部护理",
+    score: "4.9",
+    orders: 978,
+    price: 298,
+    color: "#d6bfd2",
+    initial: "悦",
+  },
+];
