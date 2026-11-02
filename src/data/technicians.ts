@@ -1,15 +1,15 @@
 export const people = [
   {
-    name: "林语",
+    name: "刘小",
     tag: "舒缓放松 · 经络调理",
     score: "4.9",
     orders: 826,
     price: 298,
     color: "#e6b9a3",
-    initial: "语",
+    initial: "书",
   },
   {
-    name: "苏晴",
+    name: "赵2",
     tag: "肩颈护理 · 精油舒缓",
     score: "4.9",
     orders: 632,
